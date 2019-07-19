@@ -48,7 +48,7 @@ If you have attended or are going to attend an upcoming tech event, please contr
 
 **Please follow the format above and make sure that the list is ordered in ascending order of event date.**
 
-If you don't know how to add an event, feel free to create an [issue](https://github.com/mesaugat/tech-events-in-nepal/issues) with the event you want to add and it's detail.
+If you don't know how to add an event, feel free to create an [issue](https://github.com/mesaugat/tech-events-in-nepal/issues) with the event you want to add and its detail.
 
 ## License
 
