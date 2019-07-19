@@ -8,7 +8,7 @@ List of tech events that are based in Nepal. :nepal:
 
 > Feburary 23, 2019
 
-2nd round of Sketch meetup in Kathmandu with the theme is "Unpresent".  There were no presentations this time. The event was kicked off with an open floor where designers came and shared their design stories, their workflows and gave each others tips and tricks.
+2nd round of Sketch Meetup in Kathmandu with the theme "Unpresent". A place where designers share their design stories, workflows and give each other design tips and tricks.
 
 ### [WordCamp Kathmandu](https://2019.kathmandu.wordcamp.org/)
 
@@ -26,7 +26,7 @@ Frontend Re-United is an extension of Frontend United a non-profit, developer-fi
 
 > June 29, 2019
 
-Design Disruptors is a one-day event where designers, UI/UX engineers, and entrepreneurs come together to showcase the disruption design can bring in one’s business/industry. By telling success stories, this event hope to inspire the upcoming disruptors. The event includes screening of the 'Design Disruptors' documentary by Invision, keynote talk and panel discussion with representatives from disruptive Nepali brands.
+Design Disruptors is a one-day event where designers, UI/UX engineers, and entrepreneurs come together to showcase the disruption design can bring in one’s business/industry. By telling success stories, this event hopes to inspire the upcoming disruptors. The event includes screening of the 'Design Disruptors' documentary by Invision, keynote talk and panel discussion with representatives from disruptive Nepali brands.
 
 ### [Web Weekend Kathmandu](https://2019.wwktm.co)
 
