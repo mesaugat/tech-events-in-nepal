@@ -46,7 +46,9 @@ Looking for past events?
 
 If you have attended or are going to attend an upcoming tech event, please contribute. Only community events are allowed in the list. Recurring events that happen multiple times during the year are not allowed in the main list.
 
-**Please follow the format above and make sure tha the list is ordered in ascending order of event date.**
+**Please follow the format above and make sure that the list is ordered in ascending order of event date.**
+
+If you don't know how to add an event, feel free to create an [issue](https://github.com/mesaugat/tech-events-in-nepal/issues) with the event you want to add and it's detail.
 
 ## License
 
