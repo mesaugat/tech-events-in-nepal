@@ -12,6 +12,10 @@ This is a group for anyone interested in blockchain, wanting to explore blockcha
 
 DevOps Kathmandu is a common platform for discussion on DevOps-y topics with the view to enhance collaboration & communication of like minded people in Kathmandu and connect with global communities.
 
+### [Facebook Developer Circle: Kathmandu](https://www.facebook.com/groups/DevCKathmandu/events/)
+
+Facebook Developer Circle: Kathmandu is a forum for developers in Nepal who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests.
+
 ### [KTM JS Meetup](https://www.facebook.com/groups/ktmjs/events/)
 
 KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
