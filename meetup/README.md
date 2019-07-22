@@ -12,6 +12,10 @@ This is a group for anyone interested in blockchain, wanting to explore blockcha
 
 DevOps Kathmandu is a common platform for discussion on DevOps-y topics with the view to enhance collaboration & communication of like minded people in Kathmandu and connect with global communities.
 
+### [KTM JS Meetup](https://www.facebook.com/groups/ktmjs/events/)
+
+KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
+
 ### [Ruby and Rails Meetup](https://www.meetup.com/Nepal-Ruby-Users-Group)
 
 Learn new and interesting stuff about Ruby/Rails and related technologies, to foster our community and to have fun together. Join a group of fellow rubyists to hangout for a quick chat, gather tips or engage in discussions. If you have something interesting to demo or share your experience, that's even better.
