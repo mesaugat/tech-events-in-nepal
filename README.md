@@ -34,6 +34,12 @@ Design Disruptors is a one-day event where designers, UI/UX engineers, and entre
 
 THREAT CON 2019 is for anyone with an interest in cyber security practices and hacking in general. You don’t have to be a proficient hacker or a bonafide security professional to attend and enjoy the event. THREAT CON promises a fantastic, worthwhile experience for everyone, those new to the scene and conference veterans alike. THREAT CON, is a one of its kind, a series of annual international security conventions similar to the famous Black Hat and DEF CON conferences.
 
+### [ng-Nepal](https://www.ngnepal.com/)
+
+> August 31, 2019
+
+The annual Angular Conference in Nepal. Get to know the latest in Angular and hear what Angular enthusiasts have to say.
+
 ### [Web Weekend Kathmandu](https://2019.wwktm.co)
 
 > September 21-22, 2019
