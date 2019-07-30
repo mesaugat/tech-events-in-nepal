@@ -40,6 +40,12 @@ THREAT CON 2019 is for anyone with an interest in cyber security practices and h
 
 The annual Angular Conference in Nepal. Get to know the latest in Angular and hear what Angular enthusiasts have to say.
 
+### [Regional Scrum Gathering 2019](https://agilenepal.org/regional-scrum-gathering-2019/)
+
+> September 7-8, 2019
+
+Scrum conference in Kathmandu, Nepal. Listen and learn from the experiences of both, local and international Agile practitioners. The program provides an opportunity to gain knowledge through workshops and presentations that cater to various levels, from beginners, through intermediate, and on to the expert. Regional Scrum Gatherings are events for like-minded Scrum practitioners, trainers, coaches, and enthusiasts.
+
 ### [Web Weekend Kathmandu](https://2019.wwktm.co)
 
 > September 21-22, 2019
