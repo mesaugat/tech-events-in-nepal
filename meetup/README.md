@@ -20,6 +20,10 @@ Facebook Developer Circle: Kathmandu is a forum for developers in Nepal who are 
 
 KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
 
+### [Python Meetup](https://www.meetup.com/PythonNepal/)
+
+This is the place to be for Python Developers of Nepal aiming to meetup regularly.
+
 ### [Ruby and Rails Meetup](https://www.meetup.com/Nepal-Ruby-Users-Group)
 
 Learn new and interesting stuff about Ruby/Rails and related technologies, to foster our community and to have fun together. Join a group of fellow rubyists to hangout for a quick chat, gather tips or engage in discussions. If you have something interesting to demo or share your experience, that's even better.
