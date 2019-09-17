@@ -16,6 +16,10 @@ DevOps Kathmandu is a common platform for discussion on DevOps-y topics with the
 
 Facebook Developer Circle: Kathmandu is a forum for developers in Nepal who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests.
 
+### [Google Developer Group Kathmandu](https://www.meetup.com/GDG-Kathmandu/)
+
+Google Developer Group Kathmandu (GDG Kathmandu) is a group of developers, Google technology enthusiasts, and Googlers from around Kathmandu, Nepal. GDGs are focused on community building and learning about Google’s technologies. The popular Google DevFest event is organized by GDG Kathmandu.
+
 ### [KTM JS Meetup](https://www.facebook.com/groups/ktmjs/events/)
 
 KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
