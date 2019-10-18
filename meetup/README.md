@@ -24,6 +24,10 @@ Google Developer Group Kathmandu (GDG Kathmandu) is a group of developers, Googl
 
 KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
 
+### [PHP Developers Nepal](https://www.facebook.com/groups/109070762572263/events/)
+
+This is the group for all the PHP and related technologies (like JavaScript, CSS , HTML) users. The main purpose of this group is to network with fellow developers.
+
 ### [Python Meetup](https://www.meetup.com/PythonNepal/)
 
 This is the place to be for Python Developers of Nepal aiming to meetup regularly.
