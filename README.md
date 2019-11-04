@@ -52,6 +52,12 @@ Scrum conference in Kathmandu, Nepal. Listen and learn from the experiences of b
 
 A 2-day conference on web technologies and everything around the web. No matter if you consider yourself a designer, dev-ops, backend dev, frontend dev or anywhere in between, #wwktm is for you.
 
+### [AITB International Conference](https://aitb.tbc.edu.np/)
+
+> November 5, 2019
+
+International conference on “Artificial Intelligence for Transforming Business”. The main aim of this conference is to create a platform to bring together academics and industry experts, and allow them to share their research findings, experience, and expertise in the field of AI. The conference will highlight the latest innovations in AI, their applications in various industries, the potential in transforming industry practices and the challenges in implementing them.
+
 ---
 
 ## 2020
