@@ -58,6 +58,12 @@ A 2-day conference on web technologies and everything around the web. No matter 
 
 International conference on “Artificial Intelligence for Transforming Business”. The main aim of this conference is to create a platform to bring together academics and industry experts, and allow them to share their research findings, experience, and expertise in the field of AI. The conference will highlight the latest innovations in AI, their applications in various industries, the potential in transforming industry practices and the challenges in implementing them.
 
+### [TechCon Kathmandu](https://agilenepal.org/techcon-kathmandu-2019/)
+
+> December 21, 2019
+
+TechCon Kathmandu 2019, a one-day tech conference aimed and designed for core engineers of the tech industry. This is an opportunity to gain knowledge through sharing best software engineering practices that cater to various levels, from beginners, through intermediate, and on to the expert. The event is filled with amazing keynote speakers, breakout sessions, networking sessions that help deepen your technical knowledge.
+
 ---
 
 ## 2020
