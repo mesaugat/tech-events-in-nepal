@@ -58,6 +58,12 @@ A 2-day conference on web technologies and everything around the web. No matter 
 
 International conference on “Artificial Intelligence for Transforming Business”. The main aim of this conference is to create a platform to bring together academics and industry experts, and allow them to share their research findings, experience, and expertise in the field of AI. The conference will highlight the latest innovations in AI, their applications in various industries, the potential in transforming industry practices and the challenges in implementing them.
 
+### [Nepal FinTech Summit](https://nepalfintechsummit.com/)
+
+> December 13-14, 2019
+
+This event aims to innovate the FinTech & Cyber Security ecosystem in Nepal by bringing in leading FinTech Leaders and Innovators from around the world. The event helps create top-notch accelerator programs and immersive dialogue between speakers and participants. The summit brings together leading tech leaders, academicians, central bankers and bank supervisors, insurers, government agencies to discuss various innovations, cutting edge technology and latest trends.
+
 ### [TechCon Kathmandu](https://agilenepal.org/techcon-kathmandu-2019/)
 
 > December 21, 2019
