@@ -64,6 +64,12 @@ International conference on “Artificial Intelligence for Transforming Business
 
 This event aims to innovate the FinTech & Cyber Security ecosystem in Nepal by bringing in leading FinTech Leaders and Innovators from around the world. The event helps create top-notch accelerator programs and immersive dialogue between speakers and participants. The summit brings together leading tech leaders, academicians, central bankers and bank supervisors, insurers, government agencies to discuss various innovations, cutting edge technology and latest trends.
 
+### [NEXT Growth Conclave](https://nextgrowthconclave.com/)
+
+> December 15, 2019
+
+NEXT Growth Conclave is the platform to shape Nepal’s entrepreneurship ecosystem. The conference brings together some of the most influential national and international speakers, investors, and media, to inspire Nepalese entrepreneurs, and share with them the secrets of business growth to take their ventures to the next level.
+
 ### [TechCon Kathmandu](https://agilenepal.org/techcon-kathmandu-2019/)
 
 > December 21, 2019
