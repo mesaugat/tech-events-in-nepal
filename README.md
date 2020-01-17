@@ -58,6 +58,12 @@ A 2-day conference on web technologies and everything around the web. No matter 
 
 International conference on “Artificial Intelligence for Transforming Business”. The main aim of this conference is to create a platform to bring together academics and industry experts, and allow them to share their research findings, experience, and expertise in the field of AI. The conference will highlight the latest innovations in AI, their applications in various industries, the potential in transforming industry practices and the challenges in implementing them.
 
+### [WordCamp Bharatpur](https://2019.bharatpur.wordcamp.org/)
+
+> November 9, 2019
+
+WordCamp Bharatpur is for everyone or anyone who uses or wants to learn WordPress. Whether you are a new user, student, designer, developer, tech expert, entrepreneur, you can benefit from it.
+
 ### [Nepal FinTech Summit](https://nepalfintechsummit.com/)
 
 > December 13-14, 2019
