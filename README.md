@@ -1,89 +1,5 @@
 # Tech Events in Nepal
 
-List of tech events that are based in Nepal. :nepal:
-
-## 2019
-
-### [Sketch Meetup Kathmandu V2 - "Unpresent"](https://www.meetup.com/Sketch-Design-Kathmandu/events/257676901/)
-
-> February 23, 2019
-
-2nd round of Sketch Meetup in Kathmandu with the theme "Unpresent". A place where designers share their design stories, workflows and give each other design tips and tricks.
-
-### [WordCamp Kathmandu](https://2019.kathmandu.wordcamp.org/)
-
-> March 16-17, 2019
-
-Largest WordPress conference in Nepal. WordCamps are informal, community organized events that are put together by WordPress users like you. Everyone from casual users to core developers participate, share ideas, and get to know each other.
-
-### [Frontend Re-United Kathmandu](https://www.frontendunited.org/re-united/kathmandu)
-
-> May 18, 2019
-
-Frontend Re-United is an extension of Frontend United a non-profit, developer-first, community-focused conference based out of Netherlands. The event aims to connect frontend developers and designers from all kinds of backgrounds closer together to share knowledge, experiences, and ideas.
-
-### [Design Disruptors - Kathmandu](https://www.facebook.com/events/395866464363841/)
-
-> June 29, 2019
-
-Design Disruptors is a one-day event where designers, UI/UX engineers, and entrepreneurs come together to showcase the disruption design can bring in one’s business/industry. By telling success stories, this event hopes to inspire the upcoming disruptors. The event includes screening of the 'Design Disruptors' documentary by Invision, keynote talk and panel discussion with representatives from disruptive Nepali brands.
-
-### [Threat Con](https://threatcon.io/)
-
-> August 29-31, 2019
-
-THREAT CON 2019 is for anyone with an interest in cyber security practices and hacking in general. You don’t have to be a proficient hacker or a bonafide security professional to attend and enjoy the event. THREAT CON promises a fantastic, worthwhile experience for everyone, those new to the scene and conference veterans alike. THREAT CON, is a one of its kind, a series of annual international security conventions similar to the famous Black Hat and DEF CON conferences.
-
-### [ng-Nepal](https://www.ngnepal.com/)
-
-> August 31, 2019
-
-The annual Angular Conference in Nepal. Get to know the latest in Angular and hear what Angular enthusiasts have to say.
-
-### [Regional Scrum Gathering 2019](https://agilenepal.org/regional-scrum-gathering-2019/)
-
-> September 7-8, 2019
-
-Scrum conference in Kathmandu, Nepal. Listen and learn from the experiences of both, local and international Agile practitioners. The program provides an opportunity to gain knowledge through workshops and presentations that cater to various levels, from beginners, through intermediate, and on to the expert. Regional Scrum Gatherings are events for like-minded Scrum practitioners, trainers, coaches, and enthusiasts.
-
-### [Web Weekend Kathmandu](https://2019.wwktm.co)
-
-> September 21-22, 2019
-
-A 2-day conference on web technologies and everything around the web. No matter if you consider yourself a designer, dev-ops, backend dev, frontend dev or anywhere in between, #wwktm is for you.
-
-### [AITB International Conference](https://aitb.tbc.edu.np/)
-
-> November 5, 2019
-
-International conference on “Artificial Intelligence for Transforming Business”. The main aim of this conference is to create a platform to bring together academics and industry experts, and allow them to share their research findings, experience, and expertise in the field of AI. The conference will highlight the latest innovations in AI, their applications in various industries, the potential in transforming industry practices and the challenges in implementing them.
-
-### [WordCamp Bharatpur](https://2019.bharatpur.wordcamp.org/)
-
-> November 9, 2019
-
-WordCamp Bharatpur is for everyone or anyone who uses or wants to learn WordPress. Whether you are a new user, student, designer, developer, tech expert, entrepreneur, you can benefit from it.
-
-### [Nepal FinTech Summit](https://nepalfintechsummit.com/)
-
-> December 13-14, 2019
-
-This event aims to innovate the FinTech & Cyber Security ecosystem in Nepal by bringing in leading FinTech Leaders and Innovators from around the world. The event helps create top-notch accelerator programs and immersive dialogue between speakers and participants. The summit brings together leading tech leaders, academicians, central bankers and bank supervisors, insurers, government agencies to discuss various innovations, cutting edge technology and latest trends.
-
-### [NEXT Growth Conclave](https://nextgrowthconclave.com/)
-
-> December 15, 2019
-
-NEXT Growth Conclave is the platform to shape Nepal’s entrepreneurship ecosystem. The conference brings together some of the most influential national and international speakers, investors, and media, to inspire Nepalese entrepreneurs, and share with them the secrets of business growth to take their ventures to the next level.
-
-### [TechCon Kathmandu](https://agilenepal.org/techcon-kathmandu-2019/)
-
-> December 21, 2019
-
-TechCon Kathmandu 2019, a one-day tech conference aimed and designed for core engineers of the tech industry. This is an opportunity to gain knowledge through sharing best software engineering practices that cater to various levels, from beginners, through intermediate, and on to the expert. The event is filled with amazing keynote speakers, breakout sessions, networking sessions that help deepen your technical knowledge.
-
----
-
 ## 2020
 
 ...
@@ -95,6 +11,7 @@ TechCon Kathmandu 2019, a one-day tech conference aimed and designed for core en
 Looking for past events?
 
 - [2018](archive/2018.md)
+- [2019](archive/2019.md)
 
 ## Meetups
 
