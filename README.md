@@ -2,7 +2,11 @@
 
 ## 2020
 
-...
+### [Web Weekend Kathmandu](https://2020.wwktm.co)
+
+> September 19-20, 2020
+
+A 2-day conference on web technologies and everything around the web. No matter if you consider yourself a designer, dev-ops, backend dev, frontend dev or anywhere in between, #wwktm is for you.
 
 ---
 
