@@ -2,6 +2,12 @@
 
 ## 2020
 
+### [Frontend United Kathmandu](https://www.frontendunited.org/event/kathmandu-2020)
+
+> May 2, 2020
+
+A non-profit, developer-first, community-focused conference. Our aim is to connect developers, hackers, enthusiasts, entrepreneurs, and designers from all kinds of backgrounds closer together to share knowledge, experiences, and ideas.
+
 ### [Web Weekend Kathmandu](https://2020.wwktm.co)
 
 > September 19-20, 2020
