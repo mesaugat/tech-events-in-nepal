@@ -20,8 +20,8 @@ A 2-day conference on web technologies and everything around the web. No matter 
 
 Looking for past events?
 
-- [2018](archive/2018.md)
 - [2019](archive/2019.md)
+- [2018](archive/2018.md)
 
 ## Meetups
 
