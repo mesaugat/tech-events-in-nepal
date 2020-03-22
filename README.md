@@ -2,9 +2,9 @@
 
 ## 2020
 
-### [Frontend United Kathmandu](https://www.frontendunited.org/event/kathmandu-2020)
+### [Frontend United Kathmandu](https://www.frontendunited.org/coronavirus)
 
-> May 2, 2020
+> May 2, 2020 (Cancelled until further notice)
 
 A non-profit, developer-first, community-focused conference. Our aim is to connect developers, hackers, enthusiasts, entrepreneurs, and designers from all kinds of backgrounds closer together to share knowledge, experiences, and ideas.
 
