@@ -1,25 +1,14 @@
 # Tech Events in Nepal
 
-## 2020
+## 2021
 
-### [Frontend United Kathmandu](https://www.frontendunited.org/coronavirus)
-
-> May 2, 2020 (Cancelled)
-
-A non-profit, developer-first, community-focused conference. Our aim is to connect developers, hackers, enthusiasts, entrepreneurs, and designers from all kinds of backgrounds closer together to share knowledge, experiences, and ideas.
-
-### [Web Weekend Kathmandu](https://2020.wwktm.co)
-
-> September 19-20, 2020 (Cancelled)
-
-A 2-day conference on web technologies and everything around the web. No matter if you consider yourself a designer, dev-ops, backend dev, frontend dev or anywhere in between, #wwktm is for you.
-
----
+> Expecting some events in 2021. 🤞
 
 ## Archive
 
 Looking for past events?
 
+- [2020](archive/2020.md)
 - [2019](archive/2019.md)
 - [2018](archive/2018.md)
 
