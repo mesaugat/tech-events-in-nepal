@@ -4,13 +4,13 @@
 
 ### [Frontend United Kathmandu](https://www.frontendunited.org/coronavirus)
 
-> May 2, 2020 (Cancelled until further notice)
+> May 2, 2020 (Cancelled)
 
 A non-profit, developer-first, community-focused conference. Our aim is to connect developers, hackers, enthusiasts, entrepreneurs, and designers from all kinds of backgrounds closer together to share knowledge, experiences, and ideas.
 
 ### [Web Weekend Kathmandu](https://2020.wwktm.co)
 
-> September 19-20, 2020
+> September 19-20, 2020 (Cancelled)
 
 A 2-day conference on web technologies and everything around the web. No matter if you consider yourself a designer, dev-ops, backend dev, frontend dev or anywhere in between, #wwktm is for you.
 
