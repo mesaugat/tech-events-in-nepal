@@ -2,7 +2,11 @@
 
 ## 2021
 
-> Expecting some events in 2021. 🤞
+### [Syntax](https://syntax.lftechnology.com)
+
+> August 20-22, 2021
+
+Platform to share well-formed thoughts, ideas, and experiences around innovation and technology. It is an environment for tech enthusiasts to foster conversations that shape the modern IT world. We want to inform, educate and connect with aspirants as well as professionals from around the globe, who will in turn lead the way to the glorious future of IT and tech.
 
 ## Archive
 
