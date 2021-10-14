@@ -1,5 +1,7 @@
 # Tech Events in Nepal
 
+List of tech events that are based in Nepal. 🇳🇵
+
 ## 2021
 
 ### [Syntax](https://syntax.lftechnology.com)
