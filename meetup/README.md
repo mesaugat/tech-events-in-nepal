@@ -20,6 +20,10 @@ Facebook Developer Circle: Kathmandu is a forum for developers in Nepal who are 
 
 Google Developer Group Kathmandu (GDG Kathmandu) is a group of developers, Google technology enthusiasts, and Googlers from around Kathmandu, Nepal. GDGs are focused on community building and learning about Google’s technologies. The popular Google DevFest event is organized by GDG Kathmandu.
 
+### [JavaScript Developers Nepal Meetup Group](https://www.meetup.com/javascript-developers-nepal-meetup-group/)
+
+Group of JavaScript ecosystem enthusiasts.
+
 ### [KTM JS Meetup](https://www.facebook.com/groups/ktmjs/events/)
 
 KTM JS (Kathmandu JS) is one of the largest tech community in Nepal aiming to share knowledge and expertise in JavaScript and related technologies through regular meetups, workshops, and discussions.
@@ -31,6 +35,10 @@ This is the group for all the PHP and related technologies (like JavaScript, CSS
 ### [Python Meetup](https://www.meetup.com/PythonNepal/)
 
 This is the place to be for Python Developers of Nepal aiming to meetup regularly.
+
+### [QA Automation and Manual Testing Meetup Group](https://www.meetup.com/qa-nepal-qa-automation-and-manual-testing-meetup-group/)
+
+Group of fellow QA engineers and testers to hang out for a quick chat, gather tips or engage in discussions.
 
 ### [Ruby and Rails Meetup](https://www.meetup.com/Nepal-Ruby-Users-Group)
 
